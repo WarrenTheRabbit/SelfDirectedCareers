@@ -19,9 +19,14 @@ The more we know about each other, the more we can help each other.
 ## Career plans
 _Note: If you like how I formatted my information, I have documented two utilities to help you [automate the formatting](automation.md). You are very welcome to use either or neither approach._
 
+<hr>
+
 ### Daniel
 
+<hr>
+
 ### Eche
+
 
 | Passions                                   | Interests                               | 3 Months                                     | 6 Months                                              | 1 Year                                            | 2 Years                                                  | 5 Years                                           |
 |:----------------------------------------|:-------------------------------------|:--------------------------------------------|:------------------------------------------------------|:--------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|
@@ -32,6 +37,8 @@ _Note: If you like how I formatted my information, I have documented two utiliti
 
 
 ### Tingru
+
+<hr>
 
 ### Nick
 
@@ -44,9 +51,15 @@ _Note: If you like how I formatted my information, I have documented two utiliti
 | Reading books / join book club       | Generative AI          |                               |                                      |                                  |   Explore .NET & C#                |                           |
 | Wrting blogs                         |                        |                               |                                       |                                 |                                    |                           |
 
+<hr>
+
 ### Nobuhiro
 
+<hr>
+
 ### Paul Silver
+
+<hr>
 
 ### Warren
 
@@ -60,9 +73,9 @@ _Note: If you like how I formatted my information, I have documented two utiliti
 | Empowering People                                         |  Collaboration tools                               |                              |                                       |  Start a Cloud Guild and Python talks where employed                               |                                    |                           |
 |                                         |             |                              |                                       |                                 |                                    |                           |
 
-
+<hr>
 
 ### Yichen
 
-
+<hr>
 

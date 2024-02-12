@@ -5,6 +5,7 @@
 | [career_plans](career_plans.md)      | Contains Paul's general career strategy and concrete career plans.   |
 | [automation](automation.md)        | Contains utilities for formatting your career plan information.   |
 | [diagrams_as_code](diagrams_as_code.md)  | Contains diagram-as-code assets.  |
+| [prompt_programs](prompt_programs/career_table/inputs.md) | For easier revisions, store your input to the 'create career table' prompt in `prompt_programs/career_table/inputs.md`. |
 
 ## Access Check
 **Test that all mentees can edit the repository.**
@@ -19,7 +20,7 @@ Daniel: X
 
 Eche: X
 
-Tingru:
+Tingru: X
 
 Nick: X
 
