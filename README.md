@@ -6,6 +6,7 @@
 | [automation](automation.md)        | Contains utilities for formatting your career plan information.   |
 | [diagrams_as_code](diagrams_as_code.md)  | Contains diagram-as-code assets.  |
 | [prompt_programs](prompt_programs/career_table/inputs.md) | For easier revisions, store your input to the 'create career table' prompt in `prompt_programs/career_table/inputs.md`. |
+| [meetups](meetups.md) | Contains a diary of Meetup events. | 
 
 ## Access Check
 **Test that all mentees can edit the repository.**
