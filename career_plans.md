@@ -23,6 +23,16 @@ _Note: If you like how I formatted my information, I have documented two utiliti
 
 ### Daniel
 
+| Passions                               | Interests                | 3 Months                               | 6 Months                                        | 1 Year                                               | 2 Years                                 | 5 Years                  |
+|----------------------------------------|--------------------------|----------------------------------------|-------------------------------------------------|------------------------------------------------------|----------------------------------------|--------------------------|
+| Learning                               | Web-Development         | Enhance Python skills                  | Build a team project                            | Re-do one of my previous projects with enhanced features | Keep learning                          | Be an experienced programmer |
+| Help others.                           | Front-End development   | Enhance SQL skills                     | Contribute to my peers’ goals                  | Reflect on my goals                                  | Share my knowledge                     | Mentor others            |
+| Be a professional and ethic person.    | Back-End development    | Enhance Git skills                     | Graduate from Holberton                        | Mentor others                                        | Mentor others                          | Start a start-up         |
+| Be happy :)                            | Understand how code works. | Learn CSS and HTML skills             | Get my first job in the industry               | Complete the CS50 introduction to data Science     |                                          |                           |
+|                                        | Get to know my peers.   | Learn AWS / Azure                     | Learn a new coding language / framework        |                                                      |                                        |                           |
+|                                        |                          | Start looking for work                |                                                 |                                                      |                                        |                           |
+
+
 <hr>
 
 ### Eche
