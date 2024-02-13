@@ -4,6 +4,7 @@
 | ---- | ---- | ---- | ---- | ---- |
 | [AWS Resources Tagging Enforcement using Tagging Policies and SCPs](https://www.meetup.com/melbourne-aws-programming-and-tools-meetup/events/298708932/) | AWS | 14/02/2024, Wednesday, 5:30 PM AEDT  | 2 hours | level 13/130 Lonsdale St | 
 |[dbt Community Meetup](https://www.meetup.com/melbourne-dbt-meetup/events/297950536/)| dbt | 15/02/2024, Thursday, 6:00 PM AEDT | 2 hours |level 2/452 Flinders St| 
+|[Chat with your data with OpenAI studio and Prompt Flow](https://www.meetup.com/melbourne-data-platform-user-group/events/298903286/) | Microsoft | 20/02/2024, Tuesday, 7:30 PM AEDT | 2 hours |  4 Freshwater Pl · Southbank, VI |
 
 ## March
 
