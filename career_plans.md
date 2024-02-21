@@ -48,6 +48,14 @@ _Note: If you like how I formatted my information, I have documented two utiliti
 
 ### Tingru
 
+
+| Passions                                   | Interests                               | 3 Months                                     | 6 Months                                              | 1 Year                                            | 2 Years                                                  | 5 Years                                           |
+|:----------------------------------------|:-------------------------------------|:--------------------------------------------|:------------------------------------------------------|:--------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|
+| Learning   | Full-stack Web Development                       | Proficiency in React                         | Graduate from Holberton                          | Get a contract/permanent role as Front-end developer                    | Mentor other career changing females | Keep up with the tech trend |
+| Networking and supporting girls in tech      | Machine Learning and AI                | Finish basic course of Javascript                            | Get an internship job of Web developer                          | get AWS certificate                             | become a mid level developer                                           | become a senior level developer                        |
+|                     | tech application in Architecture industry (smart home etc.)      | Proficiency in HTML and CSS       | have a website project in my portfolio                                |                      |                                                          |                                        |
+
+
 <hr>
 
 ### Nick
